@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "bookname": "Book of Ice and fire",
+      "bookprice": 2000
+    },
+    {
+      "id": "2",
+      "bookname": "harry potter",
+      "bookprice": 2500
+    },
+    {
+      "id": "3",
+      "bookname": "React for dummies",
+      "bookprice": 1500
+    }
+  ]
+}
